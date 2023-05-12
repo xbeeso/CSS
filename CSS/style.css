@@ -1,4 +1,7 @@
-.hi {
+p {
+    border: 10px 5px;
+    border-color: black;
     color: blue;
-    display: inline-block;
+    font-size: 100px;
+    margin: 100px   500px;
 }
